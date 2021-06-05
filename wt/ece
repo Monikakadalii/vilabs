@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<button type="button" onclick="getInfo()">click me</button>
+</body>
+<html>
